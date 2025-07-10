@@ -128,6 +128,18 @@ A full-stack **Movie Ticket Booking WebApp** built with modern design, responsiv
 - Footer contains social/contact links and branding info.
 
 ---
+**📁 Tech Stack** 
+
+Frontend: React.js, Tailwind CSS
+
+Auth/Database: Firebase Auth + Firestore
+
+Payments: Razorpay API
+
+Backend (Contact Us): Node.js, FileSystem (JSON-based)
+
+UI Libraries: React Icons, Heroicons, React Router DOM, Chart.js/Recharts
+
 
 ## ⚙️ Local Setup Instructions
 
