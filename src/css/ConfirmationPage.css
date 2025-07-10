@@ -1,0 +1,36 @@
+/* ConfirmationPage.css */
+@keyframes slideInBounce {
+    0% {
+        transform: translateY(-40px);
+        opacity: 0;
+    }
+
+    60% {
+        transform: translateY(10px);
+        opacity: 1;
+    }
+
+    100% {
+        transform: translateY(0px);
+    }
+}
+
+.animate-ticket-entry {
+    animation: slideInBounce 0.8s ease-out forwards;
+}
+
+.animate-slide-in {
+    animation: slideIn 0.4s ease-out;
+}
+
+@keyframes slideIn {
+    from {
+        transform: translateY(30px);
+        opacity: 0;
+    }
+
+    to {
+        transform: translateY(0);
+        opacity: 1;
+    }
+}
