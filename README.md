@@ -140,7 +140,18 @@ Backend (Contact Us): Node.js, FileSystem (JSON-based)
 
 UI Libraries: React Icons, Heroicons, React Router DOM, Chart.js/Recharts
 
+### 🔧 Firebase Setup for Testing
 
+To connect to the preconfigured Firebase project for this webapp:
+
+1. Create a new `.env` file at the root of the project.
+2. Paste the following values:
+
+```env
+REACT_APP_RAZORPAY_KEY=rzp_test_glkzl71CDP8RyY
+
+REACT_APP_FIREBASE_API_KEY=AIzaSyBLEgR0aTPwxoLdtjHBrzswYgx7b3qai5U
+```
 ## ⚙️ Local Setup Instructions
 
 > Follow these steps to run the project locally:
