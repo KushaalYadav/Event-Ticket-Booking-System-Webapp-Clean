@@ -7,6 +7,8 @@ A full-stack **Movie Ticket Booking WebApp** built with modern design, responsiv
 ## 🚀 Live Demo (Optional)
 **~ will add link soon**
 
+**DEMO LINK **
+- https://drive.google.com/file/d/172TxduvJ2A2JEoa3Me2o2dJl2-OnjcEp/view?usp=sharing
 ---
 
 ## 📚 Features At a Glance
